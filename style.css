@@ -1,10 +1,5 @@
 html {
-    background-image: url('img.jpg');
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-    background-repeat: no-repeat;
-    background-color: #24272b;
+    background: #24272b url('img.jpg') no-repeat center / contain fixed;
     color: white;
     text-align: center;
     overflow: hidden;
