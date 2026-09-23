@@ -1,5 +1,5 @@
 html {
-    background: #24272b url('img.jpg') no-repeat center / contain fixed;
+    background: #24272b url('img.jpg') no-repeat center / 100% 100% fixed;
     color: white;
     text-align: center;
     overflow: hidden;
